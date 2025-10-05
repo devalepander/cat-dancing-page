@@ -1,0 +1,58 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 고양이 몸통 -->
+  <ellipse cx="100" cy="120" rx="50" ry="60" fill="#FF9E5A"/>
+
+  <!-- 고양이 머리 -->
+  <circle cx="100" cy="70" r="40" fill="#FF9E5A"/>
+
+  <!-- 왼쪽 귀 -->
+  <path d="M 70 50 L 60 20 L 80 40 Z" fill="#FF9E5A"/>
+  <path d="M 70 48 L 65 30 L 78 42 Z" fill="#FFB380"/>
+
+  <!-- 오른쪽 귀 -->
+  <path d="M 130 50 L 140 20 L 120 40 Z" fill="#FF9E5A"/>
+  <path d="M 130 48 L 135 30 L 122 42 Z" fill="#FFB380"/>
+
+  <!-- 눈 왼쪽 -->
+  <ellipse cx="85" cy="70" rx="8" ry="12" fill="#2C3E50"/>
+  <ellipse cx="87" cy="68" rx="3" ry="5" fill="white"/>
+
+  <!-- 눈 오른쪽 -->
+  <ellipse cx="115" cy="70" rx="8" ry="12" fill="#2C3E50"/>
+  <ellipse cx="117" cy="68" rx="3" ry="5" fill="white"/>
+
+  <!-- 코 -->
+  <path d="M 100 80 L 95 88 L 105 88 Z" fill="#FF6B9D"/>
+
+  <!-- 입 -->
+  <path d="M 100 88 Q 90 95 85 92" stroke="#2C3E50" stroke-width="2" fill="none"/>
+  <path d="M 100 88 Q 110 95 115 92" stroke="#2C3E50" stroke-width="2" fill="none"/>
+
+  <!-- 수염 왼쪽 -->
+  <line x1="60" y1="75" x2="35" y2="70" stroke="#2C3E50" stroke-width="1.5"/>
+  <line x1="60" y1="80" x2="35" y2="80" stroke="#2C3E50" stroke-width="1.5"/>
+  <line x1="60" y1="85" x2="35" y2="90" stroke="#2C3E50" stroke-width="1.5"/>
+
+  <!-- 수염 오른쪽 -->
+  <line x1="140" y1="75" x2="165" y2="70" stroke="#2C3E50" stroke-width="1.5"/>
+  <line x1="140" y1="80" x2="165" y2="80" stroke="#2C3E50" stroke-width="1.5"/>
+  <line x1="140" y1="85" x2="165" y2="90" stroke="#2C3E50" stroke-width="1.5"/>
+
+  <!-- 왼쪽 팔 -->
+  <ellipse cx="70" cy="130" rx="15" ry="35" fill="#FF9E5A"/>
+
+  <!-- 오른쪽 팔 -->
+  <ellipse cx="130" cy="130" rx="15" ry="35" fill="#FF9E5A"/>
+
+  <!-- 왼쪽 다리 -->
+  <ellipse cx="85" cy="170" rx="12" ry="25" fill="#FF9E5A"/>
+
+  <!-- 오른쪽 다리 -->
+  <ellipse cx="115" cy="170" rx="12" ry="25" fill="#FF9E5A"/>
+
+  <!-- 꼬리 -->
+  <path d="M 145 120 Q 180 100 185 80 Q 188 70 180 65" stroke="#FF9E5A" stroke-width="18" fill="none" stroke-linecap="round"/>
+
+  <!-- 배 -->
+  <ellipse cx="100" cy="135" rx="30" ry="35" fill="#FFD4A3"/>
+</svg>
